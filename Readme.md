@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Светлана Нехай](https://up.htmlacademy.ru/javascript/17/user/69561).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Самойленко](https://htmlacademy.ru/profile/id999539).
 
 ---
 
